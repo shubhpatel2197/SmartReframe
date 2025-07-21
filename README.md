@@ -5,6 +5,13 @@ The script relies on **YOLO v8** for object detection and a simple scoring + smo
 
 ---
 
+| Type             | Link                             | Notes           |
+| ---------------- | -------------------------------- | --------------- |
+| **Input video**  | `https://drive.google.com/file/d/1wLkpJTxgrrP3LOIXE5XI_rfs4KvJuexL/view?usp=sharing`  | Original 16 : 9 |
+| **Output video** | `https://drive.google.com/file/d/1yzIj9Ydm5LGpG6dddRo128dYZDqQfl_F/view?usp=sharing` | Cropped 9 : 16  |
+
+---
+
 ## 📑 What’s inside?
 
 | Component | Role |
